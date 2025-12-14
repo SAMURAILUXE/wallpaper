@@ -1,10 +1,13 @@
-# wallpaper
+# Wallpaper:
+# Created with AI
+![AI](IMG_20250110_140628.jpg)
+![AI1](IMG_20250225_141726.jpg)
 ![Japanese lantern](IMG_20250225_141726.jpg)
-![mountains](IMG_7931.jpg)
-![mountains](IMG_7933.jpg)
-![mountains](IMG_7935.jpg)
-![mountains](Mont_Blanc_from_Les_Arcs_1950.jpg)
-![mountains](YouShallNotPass.jpg)
-![mountains](hill_mountains_trees_1417370_2560x1600.jpg)
-![mountains](lanterns_building_architecture_1418469_2560x1600.jpg)
-![mountains](os-x-el-capitan-summit-night-starry-sky-mountains-landscape-5120x3200-4020.jpg)
+![mountains1](IMG_7931.jpg)
+![mountains2](IMG_7933.jpg)
+![mountains3](IMG_7935.jpg)
+![mountains4](Mont_Blanc_from_Les_Arcs_1950.jpg)
+![mountains5](YouShallNotPass.jpg)
+![mountains6](hill_mountains_trees_1417370_2560x1600.jpg)
+![mountains7](lanterns_building_architecture_1418469_2560x1600.jpg)
+![mountains8](os-x-el-capitan-summit-night-starry-sky-mountains-landscape-5120x3200-4020.jpg)
