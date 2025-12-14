@@ -1,7 +1,7 @@
 # Wallpaper:
 ### Created with AI
 ![AI](IMG_20250110_140628.jpg)
-![AI1](IMG_20250225_141726.jpg)
+![AI1](Screenshot_2025-01-10-14-05-43-374_com.zhiliaoapp.musically-edit.jpg)
 ![Japanese lantern](IMG_20250225_141726.jpg)
 ![mountains1](IMG_7931.jpg)
 ![mountains2](IMG_7933.jpg)
