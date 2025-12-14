@@ -1,2 +1,10 @@
 # wallpaper
 ![Japanese lantern](IMG_20250225_141726.jpg)
+![mountains](IMG_7931.jpg)
+![mountains](IMG_7933.jpg)
+![mountains](IMG_7935.jpg)
+![mountains](Mont_Blanc_from_Les_Arcs_1950.jpg)
+![mountains](YouShallNotPass.jpg)
+![mountains](hill_mountains_trees_1417370_2560x1600.jpg)
+![mountains](lanterns_building_architecture_1418469_2560x1600.jpg)
+![mountains](os-x-el-capitan-summit-night-starry-sky-mountains-landscape-5120x3200-4020.jpg)
